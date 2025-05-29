@@ -1,0 +1,16 @@
+Package: terminal-plus
+Version: 1.0
+Architecture: all
+Maintainer: Andy Spofford <andyspofford@github>
+Depends: yad, xclip, xfce4-terminal
+Filename: ./terminal-plus_1.0_all.deb
+Size: 1896
+MD5sum: ce236968dd5933063d36f373db8a985d
+SHA1: 29257f425057db8a1fac09a39738c2f77e9ea067
+SHA256: e78073887e3285306c6914f8716c50ae7225a9222b591c80da0c8b229236fad6
+Section: utils
+Priority: optional
+Description: Terminal Plus - A custom launcher with SOCKS5 and path toggles
+ This package adds a GUI-based launcher for terminal sessions with selectable modes,
+ clipboard-sourced working directory, and optional proxy support.
+
